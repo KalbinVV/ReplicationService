@@ -1,0 +1,10 @@
+{
+  "server_start_message": "Служба реплицирования запущена!",
+  "server_stop_message": "Служба реплицирования остановлена!",
+  "start_directory_scanning": "Начинаем сканирование {directory_path}...",
+  "file_already_exists_in_db": "Файл {file_path} уже записан в базу данных.",
+  "file_not_exists_in_db": "Файл {file_path} не записан в базу данных, добавляем...",
+  "file_hash_has_changed": "Хэш {file_path} был изменён, копируем новый файл...",
+  "file_not_exists_in_backup_directory": "Файл {file_path} не обнаружен в папке реплицирования, копируем его...",
+  "file_removed": "Файл {file_path} был удалён, удаляем его..."
+}

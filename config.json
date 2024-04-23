@@ -1,0 +1,9 @@
+{
+  "backup_directory_path": "/home/qurao/Загрузки/backups/",
+  "directories_paths": [
+    "/home/qurao/Загрузки/test/",
+    "/home/qurao/Загрузки/db_courseproject/"
+  ],
+  "language_path": "lang.json",
+  "interval_in_seconds": 15
+}
